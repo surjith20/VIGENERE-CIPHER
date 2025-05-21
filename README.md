@@ -1,5 +1,5 @@
 # Vigenere Cipher
-Vigenere Cipher using with different key values
+Implementation Vigenere Cipher using with different key values
 
 # Reg no : 212223043006
 # Name :   Surjith D
